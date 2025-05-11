@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\user_management_with_login_register\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|e:\\dotnet_assignment\\user_management_with_login_register\\user_management_with_login_register\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|e:\\dotnet_assignment\\user_management_with_login_register\\user_management_with_login_register\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|e:\\dotnet_assignment\\user_management_with_login_register\\user_management_with_login_register\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\user_management_with_login_register\\context\\user_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\context\\user_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|e:\\dotnet_assignment\\user_management_with_login_register\\user_management_with_login_register\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|e:\\dotnet_assignment\\user_management_with_login_register\\user_management_with_login_register\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|e:\\dotnet_assignment\\user_management_with_login_register\\user_management_with_login_register\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|e:\\dotnet_assignment\\user_management_with_login_register\\user_management_with_login_register\\views\\shared\\_loginviewpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\views\\shared\\_loginviewpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\user_management_with_login_register\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|e:\\dotnet_assignment\\user_management_with_login_register\\user_management_with_login_register\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\user_management_with_login_register\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\user_management_with_login_register\\context\\product_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\context\\product_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\user_management_with_login_register\\context\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{E5E7BCB4-CB9C-4945-9CE8-2FC3E59B8BC1}|User_Management_with_login_Register\\User_Management_with_login_Register.csproj|solutionrelative:user_management_with_login_register\\context\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Views\\User\\Edit.cshtml",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "User_Management_with_login_Register\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T05:43:46.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "User_Management_with_login_Register\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T05:22:20.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_loginViewPartial.cshtml",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\Shared\\_loginViewPartial.cshtml",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Views\\Shared\\_loginViewPartial.cshtml",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\Shared\\_loginViewPartial.cshtml",
+              "RelativeToolTip": "User_Management_with_login_Register\\Views\\Shared\\_loginViewPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T05:24:03.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\User\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Views\\User\\Dashboard.cshtml",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\User\\Dashboard.cshtml",
+              "RelativeToolTip": "User_Management_with_login_Register\\Views\\User\\Dashboard.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T05:19:42.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Views\\User\\Login.cshtml",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "User_Management_with_login_Register\\Views\\User\\Login.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T05:18:35.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Views\\User\\Register.cshtml",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "User_Management_with_login_Register\\Views\\User\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T05:16:50Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Controllers\\UserController.cs",
+              "RelativeToolTip": "User_Management_with_login_Register\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T05:11:39.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "User_Management_with_login_Register\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T04:17:44.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "User_Management_with_login_Register\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T04:31:23.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "User_Management_with_login_Register\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T04:25:45.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "User_Management_with_login_Register\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T04:15:16.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User_info.cs",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Context\\User_info.cs",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Context\\User_info.cs",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Context\\User_info.cs",
+              "RelativeToolTip": "User_Management_with_login_Register\\Context\\User_info.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T04:11:38.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product_info.cs",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Context\\Product_info.cs",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Context\\Product_info.cs",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Context\\Product_info.cs",
+              "RelativeToolTip": "User_Management_with_login_Register\\Context\\Product_info.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T04:09:55.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Context\\Model1.edmx",
+              "RelativeDocumentMoniker": "User_Management_with_login_Register\\Context\\Model1.edmx",
+              "ToolTip": "E:\\DOTNET_ASSIGNMENT\\User_Management_with_login_Register\\User_Management_with_login_Register\\Context\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "User_Management_with_login_Register\\Context\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-11T04:05:50.66Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
