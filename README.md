@@ -1,4 +1,5 @@
 # User Management with Product CRUD | ASP.NET MVC (Entity Framework)
+![Screenshot (601)](https://github.com/user-attachments/assets/dd8f1350-fc3b-4c8c-9e8c-9b96e78365cb)
 
 This is a simple web application built with **ASP.NET MVC 5** and **Entity Framework** that demonstrates:
 
